@@ -1,0 +1,33 @@
+ /*  verifClientName = (event,text)=> {
+     const newInfo=this.state;
+    var  newClientName=text;
+      newInfo.clientName=newClientName;
+      console.log(newClientName);
+      this.setState(
+        {
+         newInfo
+        }
+ );
+    }
+   verifValidThru = (event,text)=> {
+    const newInfo=this.state;
+    var newValidThru=text;
+     newInfo.validThru=newValidThru;
+    console.log(newValidThru);
+    this.setState(
+      {
+       newInfo
+      }
+);
+   }
+   verifCardNumber =(event,text)=>{
+    const newInfo=this.state;
+     var newCardNumber=text;
+     newInfo.cardNumber=newCardNumber;
+    console.log(newCardNumber);
+    this.setState(
+      {
+       newInfo :
+      }
+);
+   }*/
